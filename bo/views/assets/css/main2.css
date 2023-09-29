@@ -1,0 +1,6 @@
+
+.teamscrol{
+max-height: 247px  !important;
+overflow: hidden !important;;
+overflow-y: scroll !important;;
+}

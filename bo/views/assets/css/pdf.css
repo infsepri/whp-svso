@@ -1,0 +1,287 @@
+.fullWidth {width:100%;}
+.noMargin {margin:0 !important;}
+.noPadding{padding:0 !important;}
+.pull-left{float:left;}
+.pull-left{float:left;}
+.pull-right{float:right;}
+.text-left{text-align:left;}
+.text-right{text-align:right;}
+.text-center{text-align:center;}
+
+.font-8 {font-size:8px;}
+.font-10 {font-size:10px;}
+.font-12 {font-size:12px;}
+.font-15 {font-size:15px;}
+.fontBold {font-weight:bold;}
+
+
+/* CERTIFICATE */
+body{
+   font-size: 12px;
+   font-family: Sans-Serif;
+}
+
+.inspTitle {
+	height: 20px;
+	font-size: 17px;
+	font-weight: bold;
+}
+.certNrFull {
+	height: 20px;
+	font-size: 17px;
+	font-weight: bold;
+	width: 180px;
+	text-align: left;
+	padding-left: 20px;
+}
+.nrPad {padding-left:18px;}
+
+
+.infoTable {
+	margin: 10px 7px 0 7px;
+	width: 100%;
+	font-size: 14px;
+}
+.defTitle {
+	font-weight: normal;
+	font-size: 15px;
+	padding-top: 8px;
+	padding-bottom:12px;
+}
+
+
+
+.leftCertRep {
+  float: left;
+  width: 65%;
+}
+.rightCertRep {
+	float: right;
+	width: 35%;
+	font-size: 11px;
+}
+
+
+/* CERTIFICADO IPO */
+.left_top_ipo {
+	width:365px;
+	float:left;
+}
+.left_top_ipo th {
+	width:110px;
+}
+.right_top_ipo {
+	width:310px;
+	float:left;
+}
+.right_top_ipo th {
+	width:155px;
+}
+
+.left_top_certificado {
+  width:365px;
+	float:left;
+}
+
+.left_top_certificado th {
+  width:110px;
+}
+.right_top_certificado {
+  width:310px;
+	float:left;
+}
+.right_top_certificado th{
+  width:140px;
+}
+.right_bottom_certificado {
+  float: right;
+  width: 47%;
+}
+.left_bottom_certificado {
+  float: left;
+  width: 50%;
+  margin-top:10px;
+}
+.verticalTableHeader {
+    text-align:center;
+    white-space:nowrap;
+    /*transform-origin:50% 50%;
+    -webkit-transform: rotate(-90deg);
+    -moz-transform: rotate(-90deg);
+    -ms-transform: rotate(-90deg);
+    -o-transform: rotate(-90deg);
+    transform: rotate(-90deg);*/
+	text-rotate: 90;
+}
+
+#anula_cert {
+	position: absolute;
+	right:20px;
+	width:350px;
+}
+
+#deficiencias_certificado{
+	height: 330px;
+	width: 100%;
+}
+#deficiencias_certificado_repr{
+	height: 570px;
+	width: 100%;
+}
+#obscompl_certificado{
+	height: 80px;
+	width: 100%;
+	padding-bottom: 5px;
+}
+#obscompl_certificado_repr{
+	height: 100px;
+	width: 100%;
+	padding-bottom: 5px;
+}
+#imt_ipac_image{
+	height: 165px;
+	bottom:0;
+}
+#titulo_ncert{
+	height: 20px;
+	font-size: 17px;
+	font-weight: bold;
+	padding-top:5px;
+}
+
+#titulo_ncert .p_empty{
+	float:left;
+	width:30%;
+}
+#titulo_ncert .p_titulo_b{
+	float: left;
+	width:45%;
+	text-align: center;
+	font-size: 14px;
+}
+#titulo_ncert .p_titulo_relat{
+	float: left;
+	width:45%;
+	text-align: center;
+	font-size: 12px;
+}
+#titulo_ncert .p_titulo{
+	float: left;
+	width:45%;
+	text-align: right;
+}
+
+#titulo_ncert .p_ncert{
+	float:right;
+	padding-left:30px;
+	font-size: 15.5px;
+	text-align: left;
+}
+/*height*/
+#ver_class{
+	height: 21px;
+}
+/*height*/
+#resultado{
+	height: 40px;
+}
+/*paddings*/
+#vinheta{
+	padding-top: 35px;
+	padding-left: 150px;
+}
+
+#info_bottom_b{
+	/*margin-top: 80%;*/
+
+
+	font-size:14px;
+	text-align: justify;
+    text-justify: inter-word;
+
+	position: absolute;
+	bottom:60px;
+}
+#info_bottom_b_mat{
+	/*margin-top: 80%;*/
+
+
+	font-size:14px;
+	text-align: justify;
+    text-justify: inter-word;
+
+	position: absolute;
+	bottom:33px;
+}
+#table_mat_bottom   {   font-size: 9px;}
+#table_mat_bottom   tr{ line-height: 14.2px;  }
+#info_bottom_b_2{
+	margin-top: 80%;
+	margin-left: 10%;
+	margin-right: 10%;
+	font-size:14px;
+	text-align: justify;
+    text-justify: inter-word;
+}
+#info_bottom_b_2 p{
+	margin: 0px;
+}
+
+
+.table_mat_bottom_width_1{
+	width:18%;
+}
+.table_mat_bottom_width_2{
+	width:40%;
+}
+.table_mat_bottom_width_3{
+	width:25%;
+}
+.table_mat_bottom_width_4{
+	width:17%;
+}
+
+.table_mat_bottom_margin{
+	text-align: left;
+	padding-top: 3.5px;
+	padding-bottom: 4.5px;
+}
+
+
+#table_mat_2   {   font-size: 9px;}
+#table_mat_2  td {  padding: 1.25px;
+    border: 0px;}
+
+.table_mat_2_width_1{
+	width:86%;
+}
+.table_mat_2_width_2{
+	width:13%;
+}
+
+.table_mat_2_margin{
+	text-align: left;
+	padding-top: 1px;
+	padding-bottom: 1px;
+}
+
+
+
+#table_mat_3   {   font-size: 9px;}
+#table_mat_3   tr{ line-height: 14.2px;  }
+
+.table_mat_3_width_1{
+	width:42%;
+}
+.table_mat_3_width_2{
+	width:38%;
+}
+.table_mat_3_width_3{
+	width:20%;
+}
+
+.table_mat_3_margin{
+	text-align: left;
+	padding-top: 2.7px;
+	padding-bottom: 2.7px;
+}

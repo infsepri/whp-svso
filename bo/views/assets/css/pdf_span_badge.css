@@ -1,0 +1,25 @@
+.label-green, .badge-green {
+    background-color: #3D9400 !important;
+    border-color: #3D9400 !important;
+}
+.label {
+    padding: 15px !important;
+}
+.label {
+    font-weight: bold;
+    line-height: 1;
+    color: #fff;
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: baseline;
+    border-radius: .25em;
+}
+.label-danger {
+    background-color: #d9534f;
+}
+.label-primary {
+    background-color: #428bca;
+}
+.label-warning {
+    background-color: #f0ad4e;
+}

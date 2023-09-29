@@ -1,0 +1,447 @@
+
+.messagedisplaynone1{
+  display: none;
+}
+
+#btnadd1{
+  display: none;
+}
+#btnadd2{
+  display: none;
+}
+ 
+.messagedisplaynone2{
+  display: block;
+}
+.selected2T {
+width:380px!important;
+}
+
+.selected2P {
+width:200px!important;
+}
+.msg_history {
+  height: 516px;
+  overflow-y: auto;
+}
+
+
+/*  .required2:after, .labelrequired2:after {
+  content:"**";
+  color:red;
+  font-weight: bolder;
+}
+
+
+.required:after, .labelrequired:after {
+  content:"*";
+  color:red;
+  font-weight: bolder;
+}*/
+  .messagedisplaynone{
+    display: none;
+  }
+
+  #calendar{
+    color: #797979 !important;
+  }
+
+  .box0 p {
+    font-size: 14px !important;
+    color: #428bca !important;
+}
+
+.box1 span {
+    font-size: 30px !important;
+}
+
+
+.parentselect {
+    cursor: not-allowed !important;
+    background-color:#eee !important;
+}
+.nopadding{
+  padding: 0 !important;
+  margin: 0 !important;
+}
+
+.calendarcolor{
+  background-color: white!important;
+}
+
+#blog-bg .badge {
+    top: auto !important;
+}
+
+/*
+.teamscrol{
+max-height: 345px  !important;
+overflow: hidden !important;;
+overflow-y: scroll !important;;
+}*/
+
+/* Style the tab */
+.tab {
+  overflow: hidden;
+  border: 1px solid #ccc;
+  background-color: white;
+  color: #428bca;
+}
+
+/* Style the buttons inside the tab */
+.tab button {
+  background-color: inherit;
+  float: left;
+  border: none;
+  outline: none;
+  cursor: pointer;
+  padding: 14px 16px;
+  transition: 0.3s;
+}
+
+/* Change background color of buttons on hover */
+.tab button:hover {
+  background-color: #ddd;
+}
+
+/* Create an active/current tablink class */
+.tab button.active {
+  background-color: white;
+  border-color: #ccc;
+  border: 1px solid #ccc;
+}
+
+/* Style the tab content */
+.tabcontent {
+  display: none;
+  padding: 6px 12px;
+  border: 1px solid #ccc;
+  border-top: none;
+}
+
+.paddingbtn{
+  padding-top: 4px;
+  padding-bottom: 4px;
+}
+
+.paddingdiv{
+  padding-top: 7px;
+  padding-bottom: 7px;
+}
+
+.paddingdivati{
+  padding-top: 0px;
+  padding-bottom: 15px;
+}
+
+.btn-custom{
+  border-radius: 0px !important;
+  width: 196px !important;
+}
+.span-block{
+  color: #68dff0 !important;
+  font-weight :bold !important;
+}
+.span-1{
+  font-weight :bold !important;
+}
+
+.div1-block{
+  border-right: 1px solid #000 !important;
+}
+
+.blocKTEST{
+  border-right: 1px solid #000 !important;
+ text-align: right !important;
+}
+.imag-ativity{
+    width: 100% !important;
+    height: 100px !important;
+    border-radius: 50% !important;
+}
+
+.profile-01{
+  background: #424a5d !important;
+}
+
+.center {
+    margin-top:50px;
+}
+
+.modal-header {
+	padding-bottom: 5px;
+}
+
+.modal-footer {
+    	padding: 0;
+	}
+
+.modal-footer .btn-group button {
+	height:40px;
+	border-top-left-radius : 0;
+	border-top-right-radius : 0;
+	border: none;
+	border-right: 1px solid #ddd;
+}
+
+.modal-footer .btn-group:last-child > button {
+	border-right: 0;
+}
+
+.textareasize{
+overflow: hidden;
+overflow-wrap: break-word;
+resize: none;
+height: 54px;
+}
+.pdficon{
+  max-height: 20px;
+  max-width: 20px;
+}
+.img-perfil{
+  border: 20px solid #f5f5f5 !important;
+  max-height: 230px !important;
+  border-radius: 50% !important;
+  width:236px !important;
+}
+
+.txtareainfo{
+  margin-top: 0px !important;
+  margin-bottom: 0px !important;
+  overflow: hidden !important;
+  overflow-wrap: break-word !important;;
+  resize: none !important;;
+  height: 290px !important;
+  border: 0px !important;
+}
+
+.switch-off{
+  left: -70% !important;
+}
+
+.has-switch label {
+  height: 30px !important;
+  border: 0px solid #2A3542 !important;
+  border-radius: 0%  !important;
+  margin: 0 0px 0 0px !important;
+}
+
+
+
+    .has-switch span, .has-switch label {
+
+      height: 29px !important;
+    }
+.paneltable{width:100%; float:left;}
+.paneltabletd{width:5%;}
+.paneltabletd1{width:85%; font-weight:bold;}
+
+.paneltabletd8{width:5%; font-weight:bold;}
+.panelspan{float:right;margin-right:10px;}
+
+.paneltabletd2{width:95%;background-color:#ececec;color:rgb(7, 7, 7) ;font-weight:bold;text-transform: uppercase; padding-left:5px;}
+.paneltabletd3{width:5%;background-color:#ececec}
+.panellabel{float:right;margin-right:30px}
+.panellabel1{float:right;margin-right:15px}
+.paneltabletd4{width:5%;background-color:#f2f2f2}
+.paneltabletd5{background-color:#f2f2f2}
+.paneltabletd6{width:5%;background-color:#f8f8f8}
+.paneltabletd7{width:85%;background-color:#f8f8f8}
+.nopadding-r{padding-right: 0px !important;}
+
+.input-hidden {
+  position: absolute;
+  left: -9999px;
+}
+
+input[type=radio]:checked + label>img {
+  border: 1px solid #fff;
+  box-shadow: 0 0 3px 3px #090;
+}
+
+/* Stuff after this is only to make things more pretty */
+input[type=radio] + label>img {
+/*  border: 1px dashed #444;*/
+  width: 150px;
+  height: 150px;
+  transition: 500ms all;
+}
+
+input[type=radio]:checked + label>img {
+  transform:
+    rotateZ(-10deg)
+    rotateX(10deg);
+}
+
+.smailsize{
+  max-height: 45px !important;
+    max-width: 45px !important;
+}
+/***
+
+====================================================================
+	Map Section Style
+====================================================================
+
+***/
+
+.map-section{
+	position:relative !important;
+}
+
+.map-data{
+	text-align:center !important;
+	font-size:14px !important;
+	font-weight:400 !important;
+	line-height:1.8em !important;
+}
+
+.map-data h6{
+	font-size:16px !important;
+	font-weight:700 !important;
+	text-align:center !important;
+	margin-bottom:5px !important;
+	color:#121212 !important;
+}
+.map-canvas{
+	height:525px;
+}
+
+.divmap{
+  width: 1903px !important;
+  height: 525px !important;
+
+}
+
+.wellinf{
+   background-color: transparent !important;
+   border: 0px solid #e3e3e3 !important;
+}
+
+.imaginfo{
+  border-radius: 100px !important;
+}
+.commentp{
+  padding-top: 20px !important;
+  width: 100% !important;
+  height: 100% !important;
+  max-height: 300px !important;
+    overflow: hidden !important;
+    overflow-y: scroll !important;
+}
+
+.social-card-header{
+    position: relative;
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-align: center;
+    align-items: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+    height: 96px;
+}
+.social-card-header i {
+    font-size: 32px;
+    color:#FFF;
+}
+.bg-facebook {
+    background-color:#3b5998;
+}
+.text-facebook {
+    color:#3b5998;
+}
+.bg-google-plus{
+    background-color:#dd4b39;
+}
+.text-google-plus {
+    color:#dd4b39;
+}
+.bg-twitter {
+    background-color:#1da1f2;
+}
+.text-twitter {
+    color:#1da1f2;
+}
+.bg-pinterest {
+    background-color:#bd081c;
+}
+.text-pinterest {
+    color:#bd081c;
+}
+.share:hover {
+        text-decoration: none;
+    opacity: 0.8;
+}
+
+.imgoffer{
+  max-width: 360px !important;
+    max-height: 360px !important;
+}
+
+.readmore{
+  margin-bottom: 10px !important;
+}
+
+.img-circle {
+  border-radius: 50%;
+}
+
+
+.paddbtn{
+  margin-left: 8px !important;
+}
+
+.imguserp{
+  max-width: 128px !important;
+  max-height: 128px !important;
+}
+.center1{text-align: center !important;}
+
+
+
+
+.labl {
+  display : block !important;
+  width: 100% !important;
+  	text-align:center !important;
+}
+.labl > input{ /* HIDE RADIO */
+  visibility: hidden !important; /* Makes input not-clickable */
+  position: absolute !important; /* Remove input from document flow */
+}
+.labl > input + div{ /* DIV STYLES */
+  cursor:pointer !important;
+  border:2px solid transparent !important;
+}
+.labl > input:checked + div{ /* (RADIO CHECKED) DIV STYLES */
+ /* background-color: #ffd6bb !important;*/
+  border: 1px solid #ff6600 !important;
+}
+
+.iconsm {width:  25px!important;height:  24px!important;}
+
+@media only screen and (max-width: 600px) {
+  .tableSelect{
+   width: 1px !important;
+  }
+
+
+}
+
+.filescan{
+  margin-top: 17px !important;;
+}
+
+.detativity{
+  word-break: break-word !important;
+}
+
+.male{
+  font-size: 32px;
+  color:#000;
+ margin-top: 0px !important;
+}
+
+.nomagintop{
+  margin-top: 0px !important;
+}
